@@ -1,0 +1,1 @@
+<h1>InsightBoard AI</h1>
